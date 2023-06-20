@@ -1,0 +1,24 @@
+_repo: Viisi-pilaa_70948
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Vallinmäki, Aaro J.
+    gutenberg_agent_id: '56003'
+    url: http://www.gutenberg.org/2009/agents/56003
+description: ''
+gutenberg_issued: '2023-06-09'
+identifiers:
+  gutenberg: '70948'
+language: fi
+pgterms:marc905: 20160221125604vallinmki
+pgterms:marc906: '1911'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aFinland :$bArvi A. Karisto, $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Viisi pilaa
+url: http://www.gutenberg.org/ebooks/70948
